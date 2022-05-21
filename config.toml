@@ -15,7 +15,7 @@ enableRobotsTXT = true
   [languages.en]
     title = "J Slowen Music"
     weight = 1
-    contentDir = "exampleSite/content/en"
+    contentDir = "site/content/en"
 
 [sitemap]
   changefreq = "monthly"
